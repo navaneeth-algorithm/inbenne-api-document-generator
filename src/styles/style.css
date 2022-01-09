@@ -1,0 +1,16 @@
+.text-link{
+    color: inherit;
+    text-decoration: inherit;
+     text-decoration: none;
+}
+
+.navbar li{
+    display: inline;
+    text-decoration: none;
+}
+
+.navbar li Link{
+    color: inherit;
+    text-decoration: inherit;
+     text-decoration: none;
+}
