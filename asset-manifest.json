@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/inbenne-api-document-generator/static/js/main.3ab655f8.chunk.js",
+    "main.js.map": "/inbenne-api-document-generator/static/js/main.3ab655f8.chunk.js.map",
+    "runtime-main.js": "/inbenne-api-document-generator/static/js/runtime-main.bed28d96.js",
+    "runtime-main.js.map": "/inbenne-api-document-generator/static/js/runtime-main.bed28d96.js.map",
+    "static/css/2.171a7357.chunk.css": "/inbenne-api-document-generator/static/css/2.171a7357.chunk.css",
+    "static/js/2.eb00af79.chunk.js": "/inbenne-api-document-generator/static/js/2.eb00af79.chunk.js",
+    "static/js/2.eb00af79.chunk.js.map": "/inbenne-api-document-generator/static/js/2.eb00af79.chunk.js.map",
+    "static/js/3.b87a8635.chunk.js": "/inbenne-api-document-generator/static/js/3.b87a8635.chunk.js",
+    "static/js/3.b87a8635.chunk.js.map": "/inbenne-api-document-generator/static/js/3.b87a8635.chunk.js.map",
+    "index.html": "/inbenne-api-document-generator/index.html",
+    "precache-manifest.b14b0c762526ce4c8608ff644f97ea15.js": "/inbenne-api-document-generator/precache-manifest.b14b0c762526ce4c8608ff644f97ea15.js",
+    "service-worker.js": "/inbenne-api-document-generator/service-worker.js",
+    "static/css/2.171a7357.chunk.css.map": "/inbenne-api-document-generator/static/css/2.171a7357.chunk.css.map",
+    "static/js/2.eb00af79.chunk.js.LICENSE.txt": "/inbenne-api-document-generator/static/js/2.eb00af79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bed28d96.js",
+    "static/css/2.171a7357.chunk.css",
+    "static/js/2.eb00af79.chunk.js",
+    "static/js/main.3ab655f8.chunk.js"
+  ]
+}
